@@ -868,8 +868,8 @@ self.__precacheManifest = [
     "url": "/herouniverse/css/chunk-59686aa5.eac574f2.css"
   },
   {
-    "revision": "3d571d7ebb5c698c4495",
-    "url": "/herouniverse/js/app.464565cd.js"
+    "revision": "180401ec0cba1f972c0f",
+    "url": "/herouniverse/js/app.a50166fe.js"
   },
   {
     "revision": "5baf917c00a1b2512a43",
@@ -1728,11 +1728,11 @@ self.__precacheManifest = [
     "url": "/herouniverse/js/chunk-vendors.b068cbef.js"
   },
   {
-    "revision": "9db7024bc6a98b57f9006b1fcb68f0ce",
+    "revision": "a2149dd421d39e011a2cce414c5812e5",
     "url": "/herouniverse/index.html"
   },
   {
-    "revision": "3d571d7ebb5c698c4495",
+    "revision": "180401ec0cba1f972c0f",
     "url": "/herouniverse/css/app.7e86c858.css"
   }
 ];

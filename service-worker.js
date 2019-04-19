@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/herouniverse/precache-manifest.d3c91b3358a4cc0d0f665a5ca9a34eed.js"
+  "/herouniverse/precache-manifest.a51b919c78e600e89329c2032a985103.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spidey"});
